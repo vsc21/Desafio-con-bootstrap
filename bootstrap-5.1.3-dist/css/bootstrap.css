@@ -71,6 +71,7 @@
   }
 }
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Roboto+Slab:wght@100;400&family=Work+Sans:wght@100&display=swap');
+
 body {
   margin: 0;
   font-family: 'Balsamiq Sans', cursive;
@@ -6060,7 +6061,7 @@ textarea.form-control-lg {
   background: none;
   border: 0;
   opacity: 0.5;
-  transition: opacity 0.15s ease;
+  transition: opacity 0.5s ease;
 }
 @media (prefers-reduced-motion: reduce) {
   .carousel-control-prev,
